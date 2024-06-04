@@ -1,2 +1,0 @@
-# Allow shell to get LMKD's stats
-get_prop(shell, system_lmk_prop)
